@@ -1,17 +1,13 @@
 import React from "react";
 import {
-  Appear,
   Deck,
   Slide,
   Heading,
   FlexBox,
   Box,
   FullScreen,
-  Progress,
-  Text,
   Link,
   UnorderedList,
-  OrderedList,
   ListItem,
   Notes,
   Quote,
